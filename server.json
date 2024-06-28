@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "324",
+      "name": "Joao Lucas",
+      "username": "luucassjooao",
+      "blocked": true
+    },
+    {
+      "id": "4234",
+      "name": "Joao Lucas 2",
+      "username": "luucassjooao",
+      "blocked": false
+    },
+    {
+      "id": "534534",
+      "name": "Joao Lucas 3",
+      "username": "lucasjoaoo",
+      "blocked": true
+    },
+    {
+      "id": "7a70",
+      "blocked": false,
+      "name": "fasd",
+      "username": "fads"
+    }
+  ]
+}
